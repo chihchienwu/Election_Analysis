@@ -20,11 +20,11 @@ The analysis of the election show that:
     - Charles Casper Stockham
     - Diana DeGette
     - Raymon Anthony Doane
-3 & 4. The candidate results were:
+3. The candidate results were:
     - Charles Stockham with 23.0% of the vote and 85,213 votes.
     - Diane DeGette with 73.8% of the vote and 272,892 votes.
     - Raymon Anthony Doane with 3.1% of the vote and 11,606 votes.
-5. The winner of the election was Diane DeGette with 73.8% of the total votes casts.
+4. The winner of the election was Diane DeGette with 73.8% of the total votes casts.
 
 ## Challenge Overiew
 The Colorado Board of Elections has given additional election audit task as relate to county's turnout and participation rate.
@@ -39,11 +39,11 @@ The Colorado Board of Elections has given additional election audit task as rela
     - Jefferson
     - Denver
     - Arapahoe
-3 and 4. The county results were:
+2. The county results were:
     - Jefferson with 10.5% of the vote and 38,855 votes.
     - Denver with 82.8% of the vote and 306,055 votes.
     - Arapahoe with 6.7% of the vote and 24,801 votes.
-5. The county with the largest turnout was Denver, accounting for 82.8% of the total votes casted.
+3. The county with the largest turnout was Denver, accounting for 82.8% of the total votes casted.
 
 ## Overall Election Audit Summary
 With the script used for this election audit, similar analysis by candidate and county can be easily replicated. Additionally, the script can be used (with some changes) for higher level election with seperate polical parties and more candidate participation. If more data were collected from the ballot, such as age range and political leaning, the script can be modified to perform analysis that determine the breakout of the votes by age and political preferences.
