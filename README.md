@@ -39,7 +39,7 @@ The Colorado Board of Elections has given additional election audit task as rela
     - Jefferson
     - Denver
     - Arapahoe
-3 & 4. The county results were:
+3 and 4. The county results were:
     - Jefferson with 10.5% of the vote and 38,855 votes.
     - Denver with 82.8% of the vote and 306,055 votes.
     - Arapahoe with 6.7% of the vote and 24,801 votes.
